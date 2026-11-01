@@ -27,6 +27,14 @@ This interactive Power BI dashboard analyzes retail sales performance, product c
 2. **Category & Product Breakdown:** Visual breakdown of top-performing items and low-margin products requiring inventory adjustments.
 3. **Temporal Trend Analysis:** Interactive line charts detailing seasonality and high-volume purchasing windows.
 
+## 🚀 How to View
+Download the Sales_Retail Analysis.pbix file.
+
+Open in Microsoft Power BI Desktop to explore interactive filtering, bookmarks, and underlying data models.
+
+For a quick visual review without Power BI Desktop, open Retail_sales_Analysis.pdf.
+
+
 ---
 
 
@@ -36,9 +44,3 @@ This interactive Power BI dashboard analyzes retail sales performance, product c
 ├── Sales_Retail Analysis.pbix     # Interactive Power BI report file
 └── Retail_sales_Analysis.pdf      # Exported PDF version of dashboard layouts
 
-🚀 How to View
-Download the Sales_Retail Analysis.pbix file.
-
-Open in Microsoft Power BI Desktop to explore interactive filtering, bookmarks, and underlying data models.
-
-For a quick visual review without Power BI Desktop, open Retail_sales_Analysis.pdf.
